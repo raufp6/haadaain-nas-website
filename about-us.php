@@ -50,7 +50,7 @@
 									Welcome to Haadain Nas Pvt Ltd (HDN)
 								</h2>
 								<p class="desc">
-									At Haadain Nas Pvt Ltd (HDN), we are an emerging powerhouse in the world of Manpower Recruitment. Our commitment to providing End-to-End Recruitment Solutions is driven by our unwavering dedication to meet the diverse staffing needs of businesses.
+									At Haadaain Nas Pvt Ltd (HDN), we are an emerging powerhouse in the world of Manpower Recruitment. Our commitment to providing End-to-End Recruitment Solutions is driven by our unwavering dedication to meet the diverse staffing needs of businesses.
 								</p>
 
                                 

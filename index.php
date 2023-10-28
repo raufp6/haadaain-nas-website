@@ -42,7 +42,7 @@
 			           		    	Unlocking Your Potential: We Find the Right Talent for Your Success
 			           		    </h1>
 			           		    <p class="sl-desc">
-			           		    	HAADAAIN NAS PVT LTD ( H D N ) is an emerging Manpower
+			           		    	HAADAAINNAS PVT LTD ( H D N ) is an emerging Manpower
 									Recruitment company with End-to- End Recruitment
 									Solutions to meet diversities in business requirements.
 			           		    </p>
@@ -113,7 +113,7 @@
 									</div>
 									<div class="services-content">
 										<h3 class="title">Our Team</h3>
-										<p class="services-txt">HAADAAIN NAS PVT LTD ( H D N ) is an emerging Manpower Recruitment company with End-to- End Recruitment Solutions to meet diversities in business requirements.</p>
+										<p class="services-txt">HAADAAINNAS PVT LTD ( H D N ) is an emerging Manpower Recruitment company with End-to- End Recruitment Solutions to meet diversities in business requirements.</p>
 									</div>
 								</div>
 							</div>
@@ -202,7 +202,7 @@
 			    					<div class="services-content">
 			    						<h3 class="title">EXECUTIVE SEARCH</h3>
 			    						<p class="">Executive search (informally headhunting) is the process of recruiting individuals to fill executive positions in organizations.</p>
-										<p>Confidentiality if the key in executive search and Aaroushsenior executives will ensure to maintain the confidentiality as per the requirement.</p>
+										<p>Confidentiality if the key in executive search and HAADAAINNAS executives will ensure to maintain the confidentiality as per the requirement.</p>
                                         <p>Executive search may be performed by senior executives, social networks and referrals within the organization and outside the organization</p>
 			    					</div>
 			    				</div>

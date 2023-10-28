@@ -8,5 +8,23 @@
   height: 100px;
 }
 .bg-color-1{
-    background-color: #aeaeb0 !important;
+    background-color: #fff !important;
+}
+.bg-color-2{
+  background-color: #040829 !important;
+}
+.bg-color-3{
+  background-color: #eea73f !important;
+}
+.title-yellow{
+  color: #eea73f !important;
+}
+.title-white{
+  color: #fff !important;
+}
+.m-b-4{
+  margin-bottom: 4px !important;
+}
+.our-vission{
+  min-height: 250px;
 }

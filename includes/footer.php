@@ -16,10 +16,19 @@
 							<ul class="address-widget">
                                 <li>
                                     <i class="fi fi-rr-map-marker-home"></i>
+                                    <div class="desc">HO: 27/1 1st floor  puliyar Koil street ashok nagar bangalore
+										 
+									</div>
+                                </li>
+								<li>
+                                    <i class="fi fi-rr-map-marker-home"></i>
                                     <div class="desc">A Block, BHIVE Workspace - No.112, AKR Tech Park,<br>
 										 "A" and, 7th Mile Hosur Rd, Krishna Reddy Industrial Area, Bengaluru, Karnataka 560068
 									</div>
                                 </li>
+								<li>
+									
+								</li>
                                 
                             </ul>
 						</div>

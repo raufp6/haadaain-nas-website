@@ -22,7 +22,7 @@
 		<!-- spacing css -->
 		<link rel="stylesheet" type="text/css" href="assets/css/rs-spacing.css">
 		<!-- style css -->
-		<link rel="stylesheet" type="text/css" href="style.css?v=1.2"> <!-- This stylesheet dynamically changed from style.less -->
-		<link rel="stylesheet" type="text/css" href="custom.css?v=1.2"> 
+		<link rel="stylesheet" type="text/css" href="style.css?v=1.3"> <!-- This stylesheet dynamically changed from style.less -->
+		<link rel="stylesheet" type="text/css" href="custom.css?v=1.3"> 
 		<!-- responsive css -->
-		<link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/responsive.css?v=1.2">
